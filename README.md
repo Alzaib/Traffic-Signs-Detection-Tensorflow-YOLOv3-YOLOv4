@@ -8,8 +8,13 @@ Add gif
 Add gif  
 
 ## About ##
+later
 
 ## Setup and Requirement ## 
+OpenCV (versoin 4)
+Numpy
+TensorFlow 
+Keras
 
 ## YOLO Implementation ##
 
