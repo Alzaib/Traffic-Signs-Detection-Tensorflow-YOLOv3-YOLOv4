@@ -9,7 +9,6 @@ Add gif
 
 ## About ##
 
-
 ## Setup and Requirement ## 
 
 ## YOLO Implementation ##
@@ -18,6 +17,7 @@ Add gif
 
 ## Implementation on Jetson Nano ##
 
-## Usage ## 
+## Usage ##
+Weight: https://drive.google.com/drive/folders/1cJl0CUJXfGHbd7LQWa1pcOIzKLrf2jdf?usp=sharing 
 
 ## References ## 
