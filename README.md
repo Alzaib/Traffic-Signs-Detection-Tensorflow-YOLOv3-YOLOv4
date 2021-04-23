@@ -1,5 +1,5 @@
 # Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4
-Final Project for Applications of Machine Learning in Mechatronic Systems
+Final Project for Applications of Machine Learning in Mechatronic Systems with Syed Imad (https://github.com/syed019)
 
 
 ## About ##
