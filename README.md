@@ -11,9 +11,13 @@ Add gif
 
 ## Setup and Requirement ## 
 OpenCV (versoin 4)
+
 Python 
+
 Numpy
+
 TensorFlow 
+
 Keras
 
 ## YOLO Implementation ##
