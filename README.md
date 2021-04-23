@@ -7,10 +7,11 @@ Add gif
 
 
 ## About ##
-later
+
 
 ## Setup and Requirement ## 
 OpenCV (versoin 4)
+Python 
 Numpy
 TensorFlow 
 Keras
@@ -21,7 +22,7 @@ Keras
 
 ## Implementation on Jetson Nano ##
 
-## Usage ##
+## Weight and Dataset Used ##
 Weight: https://drive.google.com/drive/folders/1cJl0CUJXfGHbd7LQWa1pcOIzKLrf2jdf?usp=sharing
 
 Dataset (YOLO Format): https://www.kaggle.com/valentynsichkar/traffic-signs-dataset-in-yolo-format
