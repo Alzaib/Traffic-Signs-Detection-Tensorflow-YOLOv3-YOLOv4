@@ -8,7 +8,11 @@ There are two primary tasks for any recognition system, detection (finding the l
 ![alt text](https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4/blob/main/images/flow.png)
 
 ## Output  ##
-### Sign Detection and Classification ###
+### Detection in Real Time ###
+
+Add gif here
+
+### Detection on Saved Images ###
 ![alt text](https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4/blob/main/images/output_images/1.jpg)
 ![alt text](https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4/blob/main/images/output_images/2.jpg)
 ![alt text](https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4/blob/main/images/output_images/6.jpg)
@@ -33,7 +37,6 @@ For this project, due to time constraints, we decided to use a publicly availabl
 
 This part involves building a custom convolutional neural network to classify between 43 classes of traffic signs. The dataset used for this part can be found here [2]. Additional methods to balance and expand the dataset are used for better predicted output. This model is also trained on Google Colab 
 
-## Implementation on Jetson Nano ##
 
 ## Weight ##
 Weight: https://drive.google.com/drive/folders/1cJl0CUJXfGHbd7LQWa1pcOIzKLrf2jdf?usp=sharing
