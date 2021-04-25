@@ -10,7 +10,7 @@ There are two primary tasks for any recognition system, detection (finding the l
 ## Output  ##
 ### Detection in Real Time ###
 
-Add gif here
+![gif](https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4/blob/main/images/demo.gif)
 
 ### Detection on Saved Images ###
 ![alt text](https://github.com/Alzaib/Traffic-Signs-Detection-Tensorflow-YOLOv3-YOLOv4/blob/main/images/output_images/1.jpg)
